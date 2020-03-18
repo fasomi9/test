@@ -6,7 +6,7 @@
  </head>
  <body>
   <header>
-   <h2> да - да , именно браузер </h2> 
+   <h1> да - да , именно браузер </h1> 
   </header>
   <nav>
    <p><a href="page2.html"> страница 2 </a></p>
@@ -15,7 +15,7 @@
   <section>
   <p> основное содержание </p>
   <article>
-   <h3> Kick block's </h3>
+   <h2> Kick block's </h2>
    <p> Win win win win win win win </p>
   <mark>
    <p> важная информация </p>
